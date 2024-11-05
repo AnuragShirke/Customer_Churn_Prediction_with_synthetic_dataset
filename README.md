@@ -37,6 +37,5 @@ The evaluation of various models provided insights into their relative performan
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/AnuragShirke/Customer_Churn_Prediction_with_synthetic_dataset
 
